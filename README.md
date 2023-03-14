@@ -32,7 +32,7 @@ Here's a walkthrough of implemented user stories:
 
 *the walkthrough does not include the "request" aspect of the app because it is taking my emulator upwards of 5 minutes for it to load the data
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/gabo0802/AND102-Project3GC/blob/master/project3.gif?raw=true' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ScreenToGif
 
